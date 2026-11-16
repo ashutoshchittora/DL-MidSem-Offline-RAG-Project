@@ -1,0 +1,121 @@
+question_id,question,reference_answer,retriever,k,answer,exact_match,token_f1,article_hit,gold_chunk_hit,original_evidence_support,prepared_evidence_support,retrieval_time_seconds,generation_time_seconds,total_time_seconds,input_tokens,generated_tokens
+Q001,Who is Diana Richburg?,An American former middle-distance runner,tfidf,1,middle-distance runner,0,0.7499999999999999,1,1,1,1,0.0048163999963435344,0.08836369999335147,0.09494090000225697,119,9
+Q001,Who is Diana Richburg?,An American former middle-distance runner,semantic,1,middle-distance runner,0,0.7499999999999999,1,1,1,1,0.006997500000579748,0.0818003000022145,0.09081789999618195,119,9
+Q001,Who is Diana Richburg?,An American former middle-distance runner,tfidf,3,Moldovan chess player,0,0.0,1,1,1,1,0.004782700001669582,0.1005453000034322,0.10845359999802895,279,8
+Q001,Who is Diana Richburg?,An American former middle-distance runner,semantic,3,middle-distance runner,0,0.7499999999999999,1,1,1,1,0.00565709999500541,0.09787839999626158,0.10649369999737246,279,9
+Q001,Who is Diana Richburg?,An American former middle-distance runner,tfidf,5,a Moldovan chess player,0,0.0,1,1,1,1,0.005816500000946689,0.08574270000099204,0.09569390000251587,438,10
+Q001,Who is Diana Richburg?,An American former middle-distance runner,semantic,5,middle-distance runner,0,0.7499999999999999,1,1,1,1,0.0056507000044803135,0.06937990000005811,0.07811930000025313,401,9
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,tfidf,1,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.004370599999674596,0.04976069999975152,0.056263699996634386,123,6
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,semantic,1,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.005431799996586051,0.05141580000054091,0.05843839999579359,123,6
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,tfidf,3,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.005208400005358271,0.051804700000502635,0.059389999994891696,246,6
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,semantic,3,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.0052508000007946976,0.04977369999687653,0.058076299996173475,283,6
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,tfidf,5,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.005585999999311753,0.04986070000450127,0.059084699998493306,406,6
+Q002,Which Olympic Games did Diana Richburg compete in?,1984 Los Angeles Olympics,semantic,5,1984 Los Angeles Olympics,1,1.0,1,1,1,1,0.005270999994536396,0.05025740000564838,0.05831949999992503,443,6
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,tfidf,1,1500 metres,1,1.0,1,1,1,1,0.004811200000403915,0.034858500002883375,0.0418645000027027,125,4
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,semantic,1,1500 metres,1,1.0,1,1,1,1,0.0056211999981314875,0.03228579999995418,0.03989670000009937,125,4
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,tfidf,3,1500 metres,1,1.0,1,1,1,1,0.00515379999706056,0.037420699998619966,0.04538529999990715,284,4
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,semantic,3,1500 metres,1,1.0,1,1,1,1,0.00532050000037998,0.03521720000571804,0.042968500005372334,285,4
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,tfidf,5,1500 metres,1,1.0,1,1,1,1,0.004938500002026558,0.038819200002762955,0.04733030000352301,444,4
+Q003,Which US national title did Diana Richburg win in 1985?,1500 metres,semantic,5,1500 metres,1,1.0,1,1,1,1,0.0055847000039648265,0.033885900003951974,0.0423953000063193,426,4
+Q004,In which city was Mir Basri born?,Baghdad,tfidf,1,Baghdad,1,1.0,1,1,1,1,0.005569599998125341,0.04171199999836972,0.04923889999918174,119,5
+Q004,In which city was Mir Basri born?,Baghdad,semantic,1,Baghdad,1,1.0,1,1,1,1,0.005400200003350619,0.04877960000158055,0.055769999999029096,119,5
+Q004,In which city was Mir Basri born?,Baghdad,tfidf,3,Baghdad,1,1.0,1,1,1,1,0.005724900001951028,0.04769230000238167,0.05618069999763975,279,5
+Q004,In which city was Mir Basri born?,Baghdad,semantic,3,Baghdad,1,1.0,1,1,1,1,0.006011600002238993,0.04378369999903953,0.052770799993595574,279,5
+Q004,In which city was Mir Basri born?,Baghdad,tfidf,5,Bag,0,0.0,1,1,1,1,0.005208599999605212,0.029926199997134972,0.03835350000008475,439,3
+Q004,In which city was Mir Basri born?,Baghdad,semantic,5,Baghdad,1,1.0,1,1,1,1,0.006637300000875257,0.0497590000013588,0.05908270000509219,403,5
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,tfidf,1,Steve Fisher,1,1.0,1,1,1,1,0.005972400002065115,0.03389189999870723,0.04186869999830378,128,4
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,semantic,1,Steve Fisher,1,1.0,1,1,1,1,0.005456400002003647,0.0321918999979971,0.039743699999235105,128,4
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,tfidf,3,Steve Fisher,1,1.0,1,1,1,1,0.006323599998722784,0.035896300003514625,0.044643499997619074,288,4
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,semantic,3,Steve Fisher,1,1.0,1,1,1,1,0.006507999998575542,0.04437360000156332,0.05346380000264617,288,4
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,tfidf,5,Steve Fisher,1,1.0,1,1,1,1,0.0068025000000488944,0.03590699999767821,0.04618670000490965,448,4
+Q005,Who coached the 1993-94 Michigan Wolverines basketball team?,Steve Fisher,semantic,5,Steve Fisher,1,1.0,1,1,1,1,0.005690999998478219,0.03649280000536237,0.045231699994474184,448,4
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,tfidf,1,J. Timothy Anderson,1,1.0,1,1,1,1,0.004978500001016073,0.05278829999588197,0.059595200000330806,127,6
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,semantic,1,J. Timothy Anderson,1,1.0,1,1,1,1,0.005597300005319994,0.05037300000549294,0.057520099995599594,127,6
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,tfidf,3,J. Timothy Anderson,1,1.0,1,1,1,1,0.005135899999004323,0.06652529999701073,0.0742785999973421,287,6
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,semantic,3,J. Timothy Anderson,1,1.0,1,1,1,1,0.007194600002549123,0.046159800003806595,0.05566540000290843,255,6
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,tfidf,5,J. Timothy Anderson,1,1.0,1,1,1,1,0.0046571999992011115,0.05445349999354221,0.06198460000450723,420,6
+Q006,Who was the captain of the 1954 Harvard Crimson football team?,J. Timothy Anderson,semantic,5,J. Timothy Anderson,1,1.0,1,1,1,1,0.005701299996871967,0.05033009999897331,0.058818199999223,415,6
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,tfidf,1,15th,1,1.0,1,1,1,1,0.0047004000007291324,0.03669670000090264,0.04363359999842942,133,4
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,semantic,1,15th,1,1.0,1,1,1,1,0.005354199995053932,0.03449640000326326,0.041819300000497606,133,4
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,tfidf,3,15th,1,1.0,1,1,1,1,0.004956899996614084,0.03501200000027893,0.042312700003094506,292,4
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,semantic,3,15th,1,1.0,1,1,1,1,0.005764900000940543,0.033024800002749544,0.04128459999628831,292,4
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,tfidf,5,15th,1,1.0,1,1,1,1,0.004906800000753719,0.03323149999778252,0.041868199994496536,452,4
+Q007,What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?,15th,semantic,5,15th,1,1.0,1,1,1,1,0.005649099999573082,0.03544170000532176,0.04394709999905899,439,4
+Q008,In which month and year was Kavbiuro established?,April 1920,tfidf,1,8 April,0,0.5,1,1,1,1,0.0046570000049541704,0.03519609999784734,0.04157340000529075,127,4
+Q008,In which month and year was Kavbiuro established?,April 1920,semantic,1,8 April,0,0.5,1,1,1,1,0.005218599995714612,0.035381399997277185,0.04218399999808753,127,4
+Q008,In which month and year was Kavbiuro established?,April 1920,tfidf,3,3 July 1920,0,0.4,1,1,1,1,0.0052207999979145825,0.040571300000010524,0.04866329999640584,287,5
+Q008,In which month and year was Kavbiuro established?,April 1920,semantic,3,3 July 1920,0,0.4,1,1,1,1,0.005060700001195073,0.04225469999801135,0.04944559999421472,287,5
+Q008,In which month and year was Kavbiuro established?,April 1920,tfidf,5,3 July 1920,0,0.4,1,1,1,1,0.005262200000288431,0.04096109999954933,0.04945620000216877,447,5
+Q008,In which month and year was Kavbiuro established?,April 1920,semantic,5,April,0,0.6666666666666666,1,1,1,1,0.005273700000543613,0.031314100000599865,0.04038280000531813,442,3
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,tfidf,1,Now Is Not Forever,1,1.0,1,1,1,1,0.004819199995836243,0.07450609999796143,0.08131699999648845,128,8
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,semantic,1,Insufficient evidence,0,0.0,1,0,1,0,0.005639299997710623,0.040795900000375696,0.04828000000270549,128,5
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,tfidf,3,Now Is Not Forever,1,1.0,1,1,1,1,0.005322000004525762,0.06631760000163922,0.07416730000113603,288,8
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,semantic,3,Urgent Message,0,0.0,1,0,1,0,0.00536149999970803,0.05020189999777358,0.05804799999896204,288,6
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,tfidf,5,Now Is Not Forever,1,1.0,1,1,1,1,0.004618099999788683,0.06506670000089798,0.0729291000025114,448,8
+Q009,What was B. Reith's first full-length album?,Now Is Not Forever,semantic,5,Urgent Message,0,0.0,1,0,1,0,0.005315800000971649,0.049857300000439864,0.058037399998283945,448,6
+Q010,In which Indian state is Gir National Park located?,Gujarat,tfidf,1,Gujarat,1,1.0,1,1,1,1,0.00518450000527082,0.032180000001972076,0.039248099994438235,123,3
+Q010,In which Indian state is Gir National Park located?,Gujarat,semantic,1,Gujarat,1,1.0,1,1,1,1,0.005508200003532693,0.026771199998620432,0.03414439999323804,123,3
+Q010,In which Indian state is Gir National Park located?,Gujarat,tfidf,3,Gujarat,1,1.0,1,1,1,1,0.006180500000482425,0.027247899997746572,0.03607019999617478,283,3
+Q010,In which Indian state is Gir National Park located?,Gujarat,semantic,3,Gujarat,1,1.0,1,1,1,1,0.005507100002432708,0.026105400000233203,0.034060599995427765,283,3
+Q010,In which Indian state is Gir National Park located?,Gujarat,tfidf,5,Gujarat,1,1.0,1,1,1,1,0.005041299998993054,0.028756200001225807,0.0374800999998115,443,3
+Q010,In which Indian state is Gir National Park located?,Gujarat,semantic,5,Gujarat,1,1.0,1,1,1,1,0.005285300001560245,0.02579600000171922,0.03441739999834681,443,3
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,tfidf,1,Neo-Gothic,1,1.0,1,1,1,1,0.00502520000009099,0.05992849999893224,0.06696630000078585,125,7
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,semantic,1,Neo-Gothic,1,1.0,1,1,1,1,0.0052434000026551075,0.05798529999447055,0.06481450000137556,125,7
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,tfidf,3,Neo-Gothic,1,1.0,1,1,1,1,0.00507110000035027,0.0598697000023094,0.06790409999666736,285,7
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,semantic,3,Neo-Gothic,1,1.0,1,1,1,1,0.005549299996346235,0.05776489999698242,0.0657329999958165,285,7
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,tfidf,5,Neo-Gothic,1,1.0,1,1,1,1,0.00529629999800818,0.058482799999183044,0.0667156999988947,395,7
+Q011,What architectural style is Puerto Princesa Cathedral associated with?,Neo-Gothic,semantic,5,Neo-Gothic,1,1.0,1,1,1,1,0.005746599999838509,0.05677730000024894,0.06566100000054576,445,7
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,tfidf,1,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.004846800002269447,0.1211364999981015,0.12764229999447707,127,15
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,semantic,1,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.005373600004531909,0.11866939999890747,0.12571759999991627,127,15
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,tfidf,3,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.005102299997815862,0.12120700000377838,0.1292710000052466,287,15
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,semantic,3,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.005878399999346584,0.1331203000008827,0.14107599999988452,282,15
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,tfidf,5,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.005282199999783188,0.12341880000167293,0.1319733999989694,447,15
+Q012,What was the role of an agonothetes in ancient Greece?,President or superintendent of the sacred Panhellenic Games,semantic,5,president or superintendent of one of the sacred Panhellenic Games,0,0.8750000000000001,1,1,0,0,0.005161699999007396,0.12199979999422794,0.1306953000021167,442,15
+Q013,In what year was FK Tauras founded?,1922,tfidf,1,1922,1,1.0,1,1,1,1,0.004475499998079613,0.04940359999454813,0.055813999999372754,121,4
+Q013,In what year was FK Tauras founded?,1922,semantic,1,1922,1,1.0,1,1,1,1,0.007681999995838851,0.032395499998528976,0.04166380000242498,121,4
+Q013,In what year was FK Tauras founded?,1922,tfidf,3,1922,1,1.0,1,1,1,1,0.0052100000029895455,0.034962000005180016,0.042746300001454074,269,4
+Q013,In what year was FK Tauras founded?,1922,semantic,3,1922,1,1.0,1,1,1,1,0.005648900005326141,0.03349549999984447,0.04204369999933988,269,4
+Q013,In what year was FK Tauras founded?,1922,tfidf,5,1922,1,1.0,1,1,1,1,0.005009500004234724,0.03377840000030119,0.04192480000347132,423,4
+Q013,In what year was FK Tauras founded?,1922,semantic,5,1922,1,1.0,1,1,1,1,0.005769700001110323,0.03417359999730252,0.04313510000065435,429,4
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,tfidf,1,Insufficient evidence,0,0.0,1,0,0,0,0.004549600002064835,0.0410528000065824,0.04746490000252379,127,5
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,semantic,1,Stana Katic,1,1.0,1,1,1,1,0.005213799995544832,0.04861979999986943,0.05558059999748366,127,6
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,tfidf,3,Ryan,0,0.0,1,0,0,0,0.004944700005580671,0.02749000000039814,0.0350901000056183,287,3
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,semantic,3,Stana Katic,1,1.0,1,1,1,1,0.0053802999973413534,0.04773729999578791,0.05594040000141831,287,6
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,tfidf,5,Ryan,0,0.0,1,0,0,0,0.0050616000007721595,0.02604770000471035,0.0346341000040411,447,3
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,semantic,5,Stana Katic,1,1.0,1,1,1,1,0.005219599996053148,0.048453200004587416,0.05729260000225622,447,6
+Q015,Who was John Hubley's second wife?,Faith Hubley,tfidf,1,Insufficient evidence,0,0.0,1,1,1,0,0.0047448999976040795,0.04386710000107996,0.05076320000080159,123,5
+Q015,Who was John Hubley's second wife?,Faith Hubley,semantic,1,Claudia,0,0.0,1,0,0,0,0.005754399993747938,0.027307899996230844,0.034969699998328,123,3
+Q015,Who was John Hubley's second wife?,Faith Hubley,tfidf,3,Insufficient evidence,0,0.0,1,1,1,0,0.0049556000012671575,0.04100029999972321,0.04850070000247797,283,5
+Q015,Who was John Hubley's second wife?,Faith Hubley,semantic,3,Claudia,0,0.0,1,0,0,0,0.0057487000012770295,0.026008000000729226,0.034346000000368804,283,3
+Q015,Who was John Hubley's second wife?,Faith Hubley,tfidf,5,Benny Carter,0,0.0,1,1,1,0,0.004937699995934963,0.04817889999685576,0.05638899999757996,443,6
+Q015,Who was John Hubley's second wife?,Faith Hubley,semantic,5,Claudia,0,0.0,1,0,0,0,0.005727800002205186,0.02650520000315737,0.03564030000416096,443,3
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,tfidf,1,University of Connecticut,1,1.0,1,1,1,1,0.00536160000046948,0.04541359999711858,0.05271510000602575,130,5
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,semantic,1,University of Connecticut,1,1.0,1,1,1,1,0.006747300001734402,0.04188270000304328,0.050442499996279366,130,5
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,tfidf,3,University of Connecticut,1,1.0,1,1,1,1,0.005022799996368121,0.04898469999898225,0.05674859999999171,290,5
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,semantic,3,University of Connecticut,1,1.0,1,1,1,1,0.005987200005620252,0.037738499995612074,0.04622059999383055,290,5
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,tfidf,5,University of Connecticut,1,1.0,1,1,1,1,0.006081299994548317,0.05053310000221245,0.060151799996674526,448,5
+Q016,From which university did Anthony J. DeMaria receive his Ph.D.?,University of Connecticut,semantic,5,University of Connecticut,1,1.0,1,1,1,1,0.005998699998599477,0.06443430000217631,0.07371039999998175,450,5
+Q017,In what year was Mir Basri born?,1911,tfidf,1,1911,1,1.0,1,1,1,1,0.004732399997010361,0.030586499997298233,0.0370519999996759,119,3
+Q017,In what year was Mir Basri born?,1911,semantic,1,1911,1,1.0,1,1,1,1,0.005157299994607456,0.024344099998415913,0.03113929999381071,119,3
+Q017,In what year was Mir Basri born?,1911,tfidf,3,1911,1,1.0,1,1,1,1,0.004625000001396984,0.026835500000743195,0.03375090000190539,279,3
+Q017,In what year was Mir Basri born?,1911,semantic,3,1911,1,1.0,1,1,1,1,0.005802400002721697,0.02528860000165878,0.03347149999899557,279,3
+Q017,In what year was Mir Basri born?,1911,tfidf,5,1911,1,1.0,1,1,1,1,0.006160299999464769,0.029098799997882452,0.03857500000594882,439,3
+Q017,In what year was Mir Basri born?,1911,semantic,5,1911,1,1.0,1,1,1,1,0.007286000000021886,0.02737350000097649,0.037324400000215974,403,3
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,tfidf,1,Crisler Arena,1,1.0,1,1,1,1,0.00497190000169212,0.05700100000103703,0.06370259999675909,131,6
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,semantic,1,Crisler Arena,1,1.0,1,1,1,1,0.00579009999637492,0.060807200003182516,0.06850249999843072,131,6
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,tfidf,3,"Crisler Arena in Ann Arbor, Michigan",0,0.5,1,1,1,1,0.00514639999892097,0.11436980000144104,0.12198580000404036,291,11
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,semantic,3,"Crisler Arena in Ann Arbor, Michigan",0,0.5,1,1,1,1,0.008109499998681713,0.11579340000025695,0.1266098999985843,291,11
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,tfidf,5,"Crisler Arena in Ann Arbor, Michigan",0,0.5,1,1,1,1,0.00518259999807924,0.12334700000064913,0.1320419999974547,451,11
+Q018,Where did the 1993-94 Michigan Wolverines basketball team play its home games?,Crisler Arena,semantic,5,"Crisler Arena in Ann Arbor, Michigan",0,0.5,1,1,1,1,0.007971999999426771,0.08389840000018012,0.09506980000151088,451,11
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,tfidf,1,Lloyd Jordan,1,1.0,1,1,1,1,0.004871800003456883,0.043198500003200024,0.04981920000136597,125,4
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,semantic,1,Lloyd Jordan,1,1.0,1,1,1,1,0.00832069999887608,0.038785500000813045,0.04921390000527026,125,4
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,tfidf,3,Lloyd Jordan,1,1.0,1,1,1,1,0.004910199997539166,0.03416090000246186,0.041892100001859944,285,4
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,semantic,3,Lloyd Jordan,1,1.0,1,1,1,1,0.005921000003581867,0.03819369999837363,0.04622899999958463,253,4
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,tfidf,5,Lloyd Jordan,1,1.0,1,1,1,1,0.004652100004022941,0.032148899997991975,0.039675500003795605,418,4
+Q019,Who coached the 1954 Harvard Crimson football team?,Lloyd Jordan,semantic,5,Lloyd Jordan,1,1.0,1,1,1,1,0.005184100002225023,0.034940999998070765,0.04310809999878984,413,4
+Q020,In which year was Gir National Park established?,1965,tfidf,1,1965,1,1.0,1,1,1,1,0.004489400002057664,0.03192309999576537,0.0381407999957446,122,3
+Q020,In which year was Gir National Park established?,1965,semantic,1,1965,1,1.0,1,1,1,1,0.006843800001661293,0.028950899999472313,0.03741910000098869,122,3
+Q020,In which year was Gir National Park established?,1965,tfidf,3,1965,1,1.0,1,1,1,1,0.004613400000380352,0.027155499999935273,0.03446529999928316,282,3
+Q020,In which year was Gir National Park established?,1965,semantic,3,1965,1,1.0,1,1,1,1,0.005944299999100622,0.0339181000017561,0.04239830000005895,282,3
+Q020,In which year was Gir National Park established?,1965,tfidf,5,1965,1,1.0,1,1,1,1,0.005138799999258481,0.025715600000694394,0.03451640000275802,442,3
+Q020,In which year was Gir National Park established?,1965,semantic,5,1965,1,1.0,1,1,1,1,0.005660000002535526,0.025212900000042282,0.034105700004147366,442,3

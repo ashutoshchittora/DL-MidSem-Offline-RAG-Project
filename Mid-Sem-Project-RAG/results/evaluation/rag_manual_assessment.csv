@@ -1,0 +1,6 @@
+question_id,assessment,reason
+Q001,factually_correct,Correct occupation; shorter than reference.
+Q008,incomplete,"Correct month/day, but missing the requested year."
+Q012,factually_correct,Equivalent meaning with different wording.
+Q014,appropriate_abstention,Answer absent from retrieved evidence.
+Q015,appropriate_abstention,Answer removed during 80-token shortening.

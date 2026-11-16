@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "chunk_id": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "article_id": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "chunk_number": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "word_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,9 @@
+question_id,question,reference_answer,method,k,answer,exact_match,token_f1,retrieval_hit,original_evidence_support,prepared_evidence_support,retrieval_time_seconds,generation_time_seconds,input_tokens,generated_tokens,model_calls
+Q001,Who is Diana Richburg?,An American former middle-distance runner,concatenation,1,middle-distance runner,0,0.7499999999999999,1,1,1,0.008362799999304116,0.07804399996530265,119,9,1
+Q001,Who is Diana Richburg?,An American former middle-distance runner,generate_from_evidence,1,ranked 1,0,0.0,1,1,1,0.008362799999304116,0.17849249998107553,176,14,2
+Q001,Who is Diana Richburg?,An American former middle-distance runner,concatenation,3,Moldovan chess player,0,0.0,1,1,1,0.005923700053244829,0.07606130000203848,279,8,1
+Q001,Who is Diana Richburg?,An American former middle-distance runner,generate_from_evidence,3,Moldovan chess player,0,0.0,1,1,1,0.005923700053244829,0.2667861001100391,445,30,4
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,concatenation,1,Insufficient evidence,0,0.0,1,0,0,0.005778999999165535,0.04569250007625669,127,5,1
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,generate_from_evidence,1,Insufficient evidence,0,0.0,1,0,0,0.005778999999165535,0.08376179996412247,190,10,2
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,concatenation,3,Ryan,0,0.0,1,0,0,0.006810000049881637,0.026611900073476136,287,3,1
+Q014,Who portrays Kate Beckett in the television series Castle?,Stana Katic,generate_from_evidence,3,Ryan,0,0.0,1,0,0,0.006810000049881637,0.13012709992472082,474,16,4

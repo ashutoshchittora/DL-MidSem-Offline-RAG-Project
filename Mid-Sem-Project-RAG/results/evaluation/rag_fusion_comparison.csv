@@ -1,0 +1,3 @@
+method,evaluations,mean_exact_match,mean_token_f1,mean_generation_time,total_input_tokens,total_generated_tokens,total_model_calls
+concatenation,60,0.7,0.7945833333333333,0.06184832833823701,16891,337,60
+generate_from_evidence,60,0.35,0.41857142857142854,0.19952864834146214,28210,1232,240

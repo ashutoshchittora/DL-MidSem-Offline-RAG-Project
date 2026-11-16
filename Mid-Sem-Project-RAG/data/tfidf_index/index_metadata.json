@@ -1,0 +1,12 @@
+{
+    "dataset": "wikimedia/wikipedia",
+    "dataset_config": "20231101.en",
+    "passage_dataset": "wiki_chunks_100w_20overlap",
+    "num_passages": 8191,
+    "vocabulary_size": 30000,
+    "chunk_size_words": 100,
+    "chunk_overlap_words": 20,
+    "max_features": 30000,
+    "vectorizer": "TfidfVectorizer",
+    "normalization": "l2"
+}

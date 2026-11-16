@@ -1,0 +1,36 @@
+Mid-Sem-Project-RAG/models/flan-t5-small/
+Mid-Sem-Project-RAG-Engineering/data/chroma_minilm/
+Mid-Sem-Project-RAG/temp-notebook-machine-check.ipynb
+Mid-Sem-Project-RAG-Engineering/config/cvenv_before_chromadb.yml
+Mid-Sem-Project-RAG-Engineering/docs/cvenv_before_fastapi_2026-11-11.txt
+
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Too large for GitHub / downloaded at runtime
+Mid-Sem-Project-RAG/models/
+*.zip
+
+# Rebuildable vector store
+Mid-Sem-Project-RAG-Engineering/data/chroma_minilm/
+
+# Backups, scratch, local env snapshots
+Mid-Sem-Project-RAG/backup-folder/
+Mid-Sem-Project-RAG/temp-notebook-machine-check.ipynb
+Mid-Sem-Project-RAG-Engineering/config/cvenv_*.yml
+Mid-Sem-Project-RAG-Engineering/docs/cvenv_*.txt
+
+# Course handout (remove this line if the repo is private)
+Mid-Sem-Project-RAG/DL Project List with Details .pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,38 @@
+{
+    "project": {
+        "name": "Offline Wikipedia RAG",
+        "dataset": "wikimedia/wikipedia",
+        "dataset_config": "20231101.en"
+    },
+
+    "data": {
+        "passage_directory": "data/wiki_chunks_100w_20overlap",
+        "index_directory": "data/tfidf_index",
+        "num_passages": 8191
+    },
+
+    "chunking": {
+        "chunk_size_words": 100,
+        "chunk_overlap_words": 20
+    },
+
+    "retrieval": {
+        "method": "tfidf",
+        "similarity": "cosine",
+        "max_features": 30000,
+        "top_k": 1
+    },
+
+    "evidence": {
+        "max_tokens_per_passage": 80,
+        "fusion_method": "concatenation"
+    },
+
+    "generator": {
+        "model_name": "google/flan-t5-small",
+        "local_model_path": "models/flan-t5-small",
+        "max_input_tokens": 512,
+        "max_new_tokens": 64,
+        "device": "auto"
+    }
+}

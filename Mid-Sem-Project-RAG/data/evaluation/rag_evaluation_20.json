@@ -1,0 +1,142 @@
+[
+    {
+        "question_id": "Q001",
+        "question": "Who is Diana Richburg?",
+        "reference_answer": "An American former middle-distance runner",
+        "source_article": "Diana Richburg",
+        "supporting_chunk_id": "55617566::0"
+    },
+    {
+        "question_id": "Q002",
+        "question": "Which Olympic Games did Diana Richburg compete in?",
+        "reference_answer": "1984 Los Angeles Olympics",
+        "source_article": "Diana Richburg",
+        "supporting_chunk_id": "55617566::0"
+    },
+    {
+        "question_id": "Q003",
+        "question": "Which US national title did Diana Richburg win in 1985?",
+        "reference_answer": "1500 metres",
+        "source_article": "Diana Richburg",
+        "supporting_chunk_id": "55617566::0"
+    },
+    {
+        "question_id": "Q004",
+        "question": "In which city was Mir Basri born?",
+        "reference_answer": "Baghdad",
+        "source_article": "Mir Basri",
+        "supporting_chunk_id": "59669912::0"
+    },
+    {
+        "question_id": "Q005",
+        "question": "Who coached the 1993-94 Michigan Wolverines basketball team?",
+        "reference_answer": "Steve Fisher",
+        "source_article": "1993–94 Michigan Wolverines men's basketball team",
+        "supporting_chunk_id": "28824182::0"
+    },
+    {
+        "question_id": "Q006",
+        "question": "Who was the captain of the 1954 Harvard Crimson football team?",
+        "reference_answer": "J. Timothy Anderson",
+        "source_article": "1954 Harvard Crimson football team",
+        "supporting_chunk_id": "64509002::0"
+    },
+    {
+        "question_id": "Q007",
+        "question": "What numbered Chinese Super League season was 2018 for Shanghai Greenland Shenhua?",
+        "reference_answer": "15th",
+        "source_article": "2018 Shanghai Greenland Shenhua F.C. season",
+        "supporting_chunk_id": "55620591::0"
+    },
+    {
+        "question_id": "Q008",
+        "question": "In which month and year was Kavbiuro established?",
+        "reference_answer": "April 1920",
+        "source_article": "Kavbiuro",
+        "supporting_chunk_id": "41016179::0"
+    },
+    {
+        "question_id": "Q009",
+        "question": "What was B. Reith's first full-length album?",
+        "reference_answer": "Now Is Not Forever",
+        "source_article": "B. Reith",
+        "supporting_chunk_id": "21921907::4"
+    },
+    {
+        "question_id": "Q010",
+        "question": "In which Indian state is Gir National Park located?",
+        "reference_answer": "Gujarat",
+        "source_article": "Gir National Park",
+        "supporting_chunk_id": "1302663::0"
+    },
+    {
+        "question_id": "Q011",
+        "question": "What architectural style is Puerto Princesa Cathedral associated with?",
+        "reference_answer": "Neo-Gothic",
+        "source_article": "Puerto Princesa Cathedral",
+        "supporting_chunk_id": "66872970::0"
+    },
+    {
+        "question_id": "Q012",
+        "question": "What was the role of an agonothetes in ancient Greece?",
+        "reference_answer": "President or superintendent of the sacred Panhellenic Games",
+        "source_article": "Agonothetes",
+        "supporting_chunk_id": "1301575::0"
+    },
+    {
+        "question_id": "Q013",
+        "question": "In what year was FK Tauras founded?",
+        "reference_answer": "1922",
+        "source_article": "FK Tauras Tauragė",
+        "supporting_chunk_id": "21922459::0"
+    },
+    {
+        "question_id": "Q014",
+        "question": "Who portrays Kate Beckett in the television series Castle?",
+        "reference_answer": "Stana Katic",
+        "source_article": "Kate Beckett",
+        "supporting_chunk_id": "21922319::0"
+    },
+    {
+        "question_id": "Q015",
+        "question": "Who was John Hubley's second wife?",
+        "reference_answer": "Faith Hubley",
+        "source_article": "John Hubley",
+        "supporting_chunk_id": "1300733::0"
+    },
+    {
+        "question_id": "Q016",
+        "question": "From which university did Anthony J. DeMaria receive his Ph.D.?",
+        "reference_answer": "University of Connecticut",
+        "source_article": "Anthony J. DeMaria",
+        "supporting_chunk_id": "21922508::0"
+    },
+    {
+        "question_id": "Q017",
+        "question": "In what year was Mir Basri born?",
+        "reference_answer": "1911",
+        "source_article": "Mir Basri",
+        "supporting_chunk_id": "59669912::0"
+    },
+    {
+        "question_id": "Q018",
+        "question": "Where did the 1993-94 Michigan Wolverines basketball team play its home games?",
+        "reference_answer": "Crisler Arena",
+        "source_article": "1993–94 Michigan Wolverines men's basketball team",
+        "supporting_chunk_id": "28824182::0"
+    },
+    {
+        "question_id": "Q019",
+        "question": "Who coached the 1954 Harvard Crimson football team?",
+        "reference_answer": "Lloyd Jordan",
+        "source_article": "1954 Harvard Crimson football team",
+        "supporting_chunk_id": "64509002::0"
+    },
+    {
+        "question_id": "Q020",
+        "question": "In which year was Gir National Park established?",
+        "reference_answer": "1965",
+        "source_article": "Gir National Park",
+        "supporting_chunk_id": "1302663::0"
+    }
+]

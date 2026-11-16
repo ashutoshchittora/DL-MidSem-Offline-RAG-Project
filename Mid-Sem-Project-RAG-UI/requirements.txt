@@ -1,0 +1,12 @@
+# ============================================================
+# Offline Wikipedia RAG — Streamlit UI
+# IIT Bombay — Deep Learning / Generative AI
+#
+# Python 3.11
+#
+# Install the main RAG project's portable requirements
+# before installing these UI dependencies.
+# ============================================================
+
+streamlit==1.66.1
+pandas==3.0.1
