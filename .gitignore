@@ -18,7 +18,7 @@ Mid-Sem-Project-RAG/models/
 *.zip
 
 # Rebuildable vector store
-Mid-Sem-Project-RAG-Engineering/data/chroma_minilm/
+Mid-Sem-Project-RAG-Engineering/data/chroma_minilm/ 
 
 # Backups, scratch, local env snapshots
 Mid-Sem-Project-RAG/backup-folder/
